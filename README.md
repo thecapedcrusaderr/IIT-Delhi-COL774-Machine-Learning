@@ -1,5 +1,5 @@
 # IIT-Delhi-COL774-Machine-Learning
-It contains all the different machine learning algorithms implemented from scratch.
+It contains code of different machine learning algorithms implemented from scratch.
 
 Assignment 1 has implementation of algorithms like Linear Regression, Logistic Regression, Stochastic Gradient Descent
 and Gaussian Discriminant Analysis.
